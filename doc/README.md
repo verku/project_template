@@ -1,0 +1,1 @@
+Folder to store documentation and notes for the project. 

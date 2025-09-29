@@ -1,0 +1,1 @@
+Folder to store metadata on raw data files, e.g. reports from sequencing facilities.

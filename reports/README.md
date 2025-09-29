@@ -1,0 +1,1 @@
+Folder to store Quarto report files and rendered outputs. 

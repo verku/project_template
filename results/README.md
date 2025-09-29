@@ -1,0 +1,1 @@
+Folder to store analysis outputs from the project. 

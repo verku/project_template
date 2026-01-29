@@ -1,0 +1,11 @@
+---
+title: NBIS Support project nr.
+subtitle: Project title
+author: Verena Kutschera
+date: today
+format:
+    nbis-html: default
+engine: jupyter
+jupyter: python3
+bibliography: references.bib
+---

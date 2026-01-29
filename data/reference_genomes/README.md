@@ -1,0 +1,1 @@
+Folder to store metadata on the reference genomes used in this project.

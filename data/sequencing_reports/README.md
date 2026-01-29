@@ -1,0 +1,1 @@
+Folder to store reports from sequencing facilities.

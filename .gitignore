@@ -6,10 +6,13 @@
 # Project-specific files and directories
 .snakemake/
 *-env/
-#results/
+results/
 
 # Partially ignored directories
-reports/knitr-pdf/*
+doc/reports/knitr-pdf/*
+doc/confluence/*files
+doc/confluence/*yml
+doc/confluence/*xml
 
 **/scratch/*
 
@@ -23,10 +26,11 @@ reports/knitr-pdf/*
 
 !doc/
 
-!reports/myunsrt.bst
-!reports/references.bib
-!reports/*/
-!reports/*/*.Rnw
-!reports/*/*.pdf
+!doc/reports/myunsrt.bst
+!doc/reports/references.bib
+!doc/reports/*.qmd
+!doc/reports/*.Rnw
+!doc/reports/*.pdf
 
 !scratch/README.md
+!results/README.md
